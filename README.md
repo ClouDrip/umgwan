@@ -8,19 +8,6 @@
 - torch==1.4.0
 - transformers==2.10.0
 
-## How to use KoBERT on Huggingface Transformers Library
-
-- 기존의 KoBERT를 transformers 라이브러리에서 곧바로 사용할 수 있도록 맞췄습니다.
-  - transformers v2.2.2부터 개인이 만든 모델을 transformers를 통해 직접 업로드/다운로드하여 사용할 수 있습니다
-- Tokenizer를 사용하려면 `tokenization_kobert.py`에서 `KoBertTokenizer`를 임포트해야 합니다.
-
-```python
-from transformers import BertModel
-from tokenization_kobert import KoBertTokenizer
-
-model = BertModel.from_pretrained('monologg/kobert')
-tokenizer = KoBertTokenizer.from_pretrained('monologg/kobert')
-```
 
 ## Usage
 
