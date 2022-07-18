@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.4.0-1072-aws-x86_64-with-debian-buster-sid",
+    "python": "3.7.10",
+    "heartbeatAt": "2022-06-22T08:21:31.296249",
+    "startedAt": "2022-06-22T08:21:30.197307",
+    "docker": null,
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": "11.0.228",
+    "args": [
+        "--model_type",
+        "kobert",
+        "--do_train",
+        "--do_eval"
+    ],
+    "state": "running",
+    "program": "main.py",
+    "codePath": "main.py",
+    "host": "ip-172-31-37-144",
+    "username": "ubuntu",
+    "executable": "/home/ubuntu/anaconda3/bin/python3"
+}

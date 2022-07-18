@@ -1,0 +1,104 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.18
+    framework: huggingface
+    huggingface_version: 4.18.0
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.6.13
+    start_time: 1656909510
+    t:
+      1:
+      - 1
+      - 11
+      - 49
+      - 55
+      2:
+      - 1
+      - 11
+      - 49
+      - 55
+      3:
+      - 1
+      - 13
+      - 16
+      4: 3.6.13
+      5: 0.12.18
+      6: 4.18.0
+      8:
+      - 5
+adam_epsilon:
+  desc: null
+  value: 1.0e-08
+data_dir:
+  desc: null
+  value: ./data
+do_eval:
+  desc: null
+  value: true
+do_train:
+  desc: null
+  value: true
+eval_batch_size:
+  desc: null
+  value: 64
+gradient_accumulation_steps:
+  desc: null
+  value: 1
+learning_rate:
+  desc: null
+  value: 5.0e-05
+logging_steps:
+  desc: null
+  value: 2000
+max_grad_norm:
+  desc: null
+  value: 1.0
+max_seq_len:
+  desc: null
+  value: 50
+max_steps:
+  desc: null
+  value: -1
+model_dir:
+  desc: null
+  value: ./model/kcbert-base
+model_name_or_path:
+  desc: null
+  value: beomi/kcbert-base
+model_type:
+  desc: null
+  value: kcbert-base
+no_cuda:
+  desc: null
+  value: false
+num_train_epochs:
+  desc: null
+  value: 5.0
+save_steps:
+  desc: null
+  value: 2000
+seed:
+  desc: null
+  value: 42
+task:
+  desc: null
+  value: nsmc
+test_file:
+  desc: null
+  value: test_data.tsv
+train_batch_size:
+  desc: null
+  value: 32
+train_file:
+  desc: null
+  value: train_data.tsv
+warmup_steps:
+  desc: null
+  value: 0
+weight_decay:
+  desc: null
+  value: 0.0

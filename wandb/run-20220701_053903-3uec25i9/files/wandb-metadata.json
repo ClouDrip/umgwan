@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.4.0-1072-aws-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "heartbeatAt": "2022-07-01T05:39:04.940532",
+    "startedAt": "2022-07-01T05:39:03.181124",
+    "docker": null,
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": "11.0.228",
+    "args": [
+        "--model_type",
+        "kobert",
+        "--do_train",
+        "--do_eval"
+    ],
+    "state": "running",
+    "program": "main.py",
+    "codePath": "main.py",
+    "host": "ip-172-31-37-144",
+    "username": "ubuntu",
+    "executable": "/usr/bin/python3"
+}
