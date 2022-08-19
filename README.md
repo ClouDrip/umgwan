@@ -10,9 +10,9 @@
 
 ## Members
 
-|                            김현욱                            |                            고유찬                            |                            김황대                            |                            박상류                            |                            정재현                            |
+|                            김현욱                            |                            강진호                            |                            고유찬                            |                            이진구                            |                            김동규                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![Avatar](https://avatars.githubusercontent.com/u/70522267?v=4)](https://github.com/EP000) | [![Avatar](https://avatars.githubusercontent.com/u/31470457?v=4)](https://github.com/powerwook) | [![Avatar](https://avatars.githubusercontent.com/u/59689327?v=4)](https://github.com/kimhwangdae) | [![Avatar](https://avatars.githubusercontent.com/u/60460317?v=4)](https://github.com/psrpsj) | [![Avatar](https://avatars.githubusercontent.com/u/13325436?v=4)](https://github.com/JHyunJung) | [![Avatar](https://avatars.githubusercontent.com/u/80210706?v=4)](https://github.com/choi-yunsung) |
+| [![Avatar](https://avatars.githubusercontent.com/u/70522267?v=4)](https://github.com/powerwook) | [![Avatar](https://avatars.githubusercontent.com/u/31470457?v=4)](https://github.com/jinho-Kang) | [![Avatar](https://avatars.githubusercontent.com/u/59689327?v=4)](https://github.com/redronsean) | [![Avatar](https://avatars.githubusercontent.com/u/60460317?v=4)](https://github.com/Leejingoo13) | [![Avatar](https://avatars.githubusercontent.com/u/13325436?v=4)](https://github.com/TerryKimDK) |
 | [Github](https://github.com/EP000) | [Github](https://github.com/powerwook) | [Github](https://github.com/kimhwangdae) | [Github](https://github.com/psrpsj) | [Github](https://github.com/JHyunJung) |
 
 
