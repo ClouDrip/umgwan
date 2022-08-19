@@ -12,7 +12,6 @@
 
 |                            김현욱                            |                            강진호                            |                            고유찬                            |                            이진구                            |                            김동규                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![Avatar](https://avatars.githubusercontent.com/u/70522267?v=4)](https://github.com/powerwook) | [![Avatar](https://avatars.githubusercontent.com/u/31470457?v=4)](https://github.com/jinho-Kang) | [![Avatar](https://avatars.githubusercontent.com/u/59689327?v=4)](https://github.com/redronsean) | [![Avatar](https://avatars.githubusercontent.com/u/60460317?v=4)](https://github.com/Leejingoo13) | [![Avatar](https://avatars.githubusercontent.com/u/13325436?v=4)](https://github.com/TerryKimDK) |
 | [Github](https://github.com/powerwook) | [Github](https://github.com/jinho-Kang) | [Github](https://github.com/redronsean) | [Github]
 (https://github.com/Leejingoo13) | [Github](https://github.com/TerryKimDK) |
 
