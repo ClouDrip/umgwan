@@ -12,8 +12,7 @@
 
 |                            김현욱                            |                            강진호                            |                            고유찬                            |                            이진구                            |                            김동규                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|[Github](https://github.com/powerwook) | [Github](https://github.com/jinho-Kang) | [Github](https://github.com/redronsean) | [Github]
-(https://github.com/Leejingoo13) | [Github](https://github.com/TerryKimDK) |
+|[Github](https://github.com/powerwook) | [Github](https://github.com/jinho-Kang) | [Github](https://github.com/redronsean) | [Github](https://github.com/Leejingoo13) | [Github](https://github.com/TerryKimDK) |
 
 
 ## Project Overview
