@@ -4,7 +4,6 @@
   1. [Members](#Members)
   2. [Project Overview](#Project-Overview)
   3. [Hardware](#Hardware)
-  4. [Code Structure](#Code-Structure)
 
 ## Members
 
@@ -31,58 +30,5 @@ The following specs were used to create the original solution.
 - Ubuntu 18.04.5 LTS
 - Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz
 - NVIDIA Tesla V100-SXM2-32GB
-
-## Code Structure
-```text
-├── code/                   
-│   ├── crawl
-│   │   └── bunjang_crawl.py
-│   │
-│   ├── multimodal-clf
-│   │   ├── configs
-│   │   │   ├── data/secondhad-goods.yaml
-│   │   │   └── model/mobilenetv3_kluebert.yaml
-│   │   ├── src
-│   │   │   ├── augmentation
-│   │   │   │   ├── methods.py
-│   │   │   │   ├── policies.py
-│   │   │   │   └── transforms.py
-│   │   │   ├── utils
-│   │   │   │   ├── common.py
-│   │   │   │   └── data.py
-│   │   │   ├── dataloader.py
-│   │   │   ├── model.py
-│   │   │   └── traniner.py
-│   │   └── train.py
-│   │   
-│   ├── prototype
-│   │   ├── models/mmclf
-│   │   │   ├── best.pt
-│   │   │   ├── config.yaml
-│   │   │   ├── mmclf.py
-│   │   │   ├── special_tokens_map.json
-│   │   │   ├── tokenizer_config.json
-│   │   │   ├── tokenizer.json
-│   │   │   └── vocab.txt
-│   │   ├── app.py
-│   │   └── inference.py
-│   │   
-│   ├── text_extraction
-│   │   ├── es_api.py
-│   │   ├── make_vocab.py
-│   │   └── text_extraction.py
-│   │
-│   ├── text_generation
-│   │   ├── arguments.py
-│   │   ├── data.py
-│   │   ├── hashtag_preprocess.py
-│   │   ├── inference.py
-│   │   ├── preprocess.py
-│   │   └── train.py                  
-│   │
-│   ├── requirements.txt
-│   └── README.md
-│
-└── data/es_data                     
-    └── vocab_space_ver2.txt                        
+                
     
